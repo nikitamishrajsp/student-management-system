@@ -1,0 +1,9 @@
+roll_no,full_name,email,phone,course_code,status
+STU001,Aarav Sharma,aarav.sharma@example.com,9876501001,BSCIT,active
+STU002,Diya Verma,diya.verma@example.com,9876501002,BCA,active
+STU003,Kabir Singh,kabir.singh@example.com,9876501003,PYAI,active
+STU004,Ananya Gupta,ananya.gupta@example.com,9876501004,BSCIT,active
+STU005,Vivaan Patel,vivaan.patel@example.com,9876501005,MCA,graduated
+STU006,Meera Joshi,meera.joshi@example.com,9876501006,WEBDEV,active
+STU007,Reyansh Kumar,reyansh.kumar@example.com,9876501007,BCA,inactive
+STU008,Saanvi Mishra,saanvi.mishra@example.com,9876501008,PYAI,active
